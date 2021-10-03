@@ -4,3 +4,5 @@
 " Last Change: Apr 15, 2017
 
 setlocal commentstring=#\ %s
+
+let b:undo_ftplugin = "setl cms<"
